@@ -1,0 +1,1699 @@
+Turn 1: Player 1's turn.
+0, 0 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 2: Player 2's turn.
+2, 2 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ c ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 d ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 3: Player 1's turn.
+0, 1 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m ~ ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 4: Player 2's turn.
+1, 2 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ c ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 d ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 5: Player 1's turn.
+0, 2 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 6: Player 2's turn.
+0, 2 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ c ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 d ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 7: Player 1's turn.
+0, 3 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m ~ ~ ~ ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 8: Player 2's turn.
+3, 2 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ c ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ c ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 d ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 9: Player 1's turn.
+0, 4 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m ~ ~ ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 10: Player 2's turn.
+4, 2 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ c ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 d ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 11: Player 1's turn.
+0, 5 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m ~ ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 12: Player 2's turn.
+5, 2 is a hit!
+Player 1's Carrier sunked!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 d ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 13: Player 1's turn.
+0, 6 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m ~ ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 14: Player 2's turn.
+8, 0 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 d ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 15: Player 1's turn.
+0, 7 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m ~ ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 16: Player 2's turn.
+7, 0 is a hit!
+Player 1's Destroyer sunked!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+Turn 17: Player 1's turn.
+0, 8 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m ~ 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 18: Player 2's turn.
+9, 7 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s ~ 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m ~ ~ 
+
+Turn 19: Player 1's turn.
+0, 9 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 20: Player 2's turn.
+5, 9 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m ~ ~ 
+
+Turn 21: Player 1's turn.
+1, 0 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 22: Player 2's turn.
+2, 0 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m ~ ~ 
+
+Turn 23: Player 1's turn.
+1, 1 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m ~ ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 24: Player 2's turn.
+9, 8 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * ~ ~ ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 25: Player 1's turn.
+1, 2 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m ~ ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 26: Player 2's turn.
+5, 3 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m ~ ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 27: Player 1's turn.
+1, 3 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m ~ ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 28: Player 2's turn.
+5, 4 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 29: Player 1's turn.
+1, 4 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m ~ ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 30: Player 2's turn.
+3, 0 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ ~ ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 31: Player 1's turn.
+1, 5 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m ~ ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 32: Player 2's turn.
+0, 4 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 33: Player 1's turn.
+1, 6 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m ~ ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 34: Player 2's turn.
+1, 1 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ m * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b ~ ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 35: Player 1's turn.
+1, 7 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m ~ ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 36: Player 2's turn.
+8, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ m * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m ~ 
+
+Turn 37: Player 1's turn.
+1, 8 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m ~ 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 38: Player 2's turn.
+9, 9 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ m * ~ ~ ~ ~ ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 39: Player 1's turn.
+1, 9 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 40: Player 2's turn.
+1, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ ~ ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 41: Player 1's turn.
+2, 0 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 42: Player 2's turn.
+4, 8 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * ~ ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 43: Player 1's turn.
+2, 1 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m ~ ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 44: Player 2's turn.
+7, 1 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ ~ ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 45: Player 1's turn.
+2, 2 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m ~ ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 46: Player 2's turn.
+0, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 47: Player 1's turn.
+2, 3 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m ~ ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 48: Player 2's turn.
+2, 5 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b b b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 49: Player 1's turn.
+2, 4 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m ~ ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 50: Player 2's turn.
+8, 4 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ ~ ~ ~ ~ ~ r 
+8 * ~ b b * b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 51: Player 1's turn.
+2, 5 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m ~ ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 52: Player 2's turn.
+7, 4 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * ~ b b * b m ~ ~ r 
+9 ~ ~ ~ ~ ~ ~ ~ m m m 
+
+Turn 53: Player 1's turn.
+2, 6 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m ~ ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 54: Player 2's turn.
+9, 4 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * ~ b b * b m ~ ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 55: Player 1's turn.
+2, 7 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m ~ ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 56: Player 2's turn.
+8, 3 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * ~ b * * b m ~ ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 57: Player 1's turn.
+2, 8 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m ~ 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 58: Player 2's turn.
+8, 2 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * ~ * * * b m ~ ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 59: Player 1's turn.
+2, 9 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 60: Player 2's turn.
+8, 1 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * m * * * b m ~ ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 61: Player 1's turn.
+3, 0 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m ~ ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 62: Player 2's turn.
+8, 5 is a hit!
+Player 1's Battleship sunked!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * m * * * * m ~ ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 63: Player 1's turn.
+3, 1 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m ~ ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 64: Player 2's turn.
+8, 7 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ ~ ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 65: Player 1's turn.
+3, 2 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m ~ ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 66: Player 2's turn.
+2, 7 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ ~ ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 67: Player 1's turn.
+3, 3 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m ~ ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 68: Player 2's turn.
+3, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m ~ ~ ~ ~ r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 69: Player 1's turn.
+3, 4 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m ~ ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 70: Player 2's turn.
+7, 5 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m m ~ ~ ~ r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 71: Player 1's turn.
+3, 5 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m ~ ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 72: Player 2's turn.
+7, 8 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ ~ ~ ~ ~ ~ r 
+7 * m ~ ~ m m ~ ~ m r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 73: Player 1's turn.
+3, 6 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m ~ ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 74: Player 2's turn.
+6, 4 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ m ~ ~ ~ ~ r 
+7 * m ~ ~ m m ~ ~ m r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 75: Player 1's turn.
+3, 7 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m ~ r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 76: Player 2's turn.
+6, 9 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m r 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 77: Player 1's turn.
+3, 8 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m r 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 78: Player 2's turn.
+7, 9 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ r 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 79: Player 1's turn.
+3, 9 is a hit!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 80: Player 2's turn.
+8, 9 is a hit!
+Player 1's Cruiser sunked!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ ~ ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 81: Player 1's turn.
+4, 0 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m s ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 82: Player 2's turn.
+3, 8 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 ~ ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 83: Player 1's turn.
+4, 1 is a hit!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * ~ ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 84: Player 2's turn.
+6, 0 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m ~ m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 85: Player 1's turn.
+4, 2 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m ~ ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 86: Player 2's turn.
+0, 5 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * ~ ~ ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 87: Player 1's turn.
+4, 3 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m ~ ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 88: Player 2's turn.
+1, 4 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * ~ m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ ~ m m m 
+
+Turn 89: Player 1's turn.
+4, 4 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m ~ ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 90: Player 2's turn.
+9, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * ~ m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 ~ ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 91: Player 1's turn.
+4, 5 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m ~ ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 92: Player 2's turn.
+4, 0 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * ~ m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 93: Player 1's turn.
+4, 6 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m ~ ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 94: Player 2's turn.
+1, 3 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m ~ m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 95: Player 1's turn.
+4, 7 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m ~ r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 96: Player 2's turn.
+2, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ ~ 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 97: Player 1's turn.
+4, 8 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m r 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 98: Player 2's turn.
+2, 9 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m ~ s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 99: Player 1's turn.
+4, 9 is a hit!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 ~ s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 100: Player 2's turn.
+5, 5 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * ~ ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m m s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 101: Player 1's turn.
+5, 0 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 m s ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 102: Player 2's turn.
+4, 3 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * m ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m m s s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 103: Player 1's turn.
+5, 1 is a hit!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 m * ~ ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 104: Player 2's turn.
+5, 6 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * m ~ ~ ~ ~ m ~ 
+5 ~ ~ * m m m * s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 105: Player 1's turn.
+5, 2 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 m * m ~ ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 106: Player 2's turn.
+4, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * m ~ ~ m ~ m ~ 
+5 ~ ~ * m m m * s s m 
+6 m ~ ~ ~ m ~ ~ ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 107: Player 1's turn.
+5, 3 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 m * m m ~ ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 108: Player 2's turn.
+6, 6 is a miss!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * m ~ ~ m ~ m ~ 
+5 ~ ~ * m m m * s s m 
+6 m ~ ~ ~ m ~ m ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 109: Player 1's turn.
+5, 4 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 m * m m m ~ ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 110: Player 2's turn.
+5, 7 is a hit!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * m ~ ~ m ~ m ~ 
+5 ~ ~ * m m m * * s m 
+6 m ~ ~ ~ m ~ m ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+Turn 111: Player 1's turn.
+5, 5 is a miss!
+Player 2's board:
+  0 1 2 3 4 5 6 7 8 9
+0 m m m m m m m m m m 
+1 m m m m m m m m m m 
+2 m m m m m m m m m m 
+3 m m m m m m m m m * 
+4 m * m m m m m m m * 
+5 m * m m m m ~ ~ ~ r 
+6 ~ s ~ ~ ~ ~ ~ ~ ~ ~ 
+7 ~ ~ d d ~ ~ ~ ~ ~ ~ 
+8 ~ ~ ~ c c c c c ~ ~ 
+9 ~ b b b b ~ ~ ~ ~ ~ 
+
+Turn 112: Player 2's turn.
+5, 8 is a hit!
+Player 1's Submarine sunked!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 ~ ~ m ~ m m m ~ ~ ~ 
+1 ~ m * m m ~ m ~ ~ ~ 
+2 m ~ * ~ ~ m m m ~ m 
+3 m ~ * ~ ~ ~ m ~ m ~ 
+4 m ~ * m ~ ~ m ~ m ~ 
+5 ~ ~ * m m m * * * m 
+6 m ~ ~ ~ m ~ m ~ ~ * 
+7 * m ~ ~ m m ~ ~ m * 
+8 * m * * * * m m ~ * 
+9 ~ ~ ~ ~ m ~ m m m m 
+
+
+>>>>> Player 2 wins! <<<<<
++===================================================
+|                    PLAYER STATS                   
++---------------------------------------------------
+| PLAYER 1 : 4 hits                                
+|            52 misses                              
+|            56 total shots                         
+|            7.69% hit/miss ratio                 
+| PLAYER 2 : 17 hits                                
+|            39 misses                              
+|            56 total shots                         
+|            43.59% hit/miss ratio                 
++===================================================
